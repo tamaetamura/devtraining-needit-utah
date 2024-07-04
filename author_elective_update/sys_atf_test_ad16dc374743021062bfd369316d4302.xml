@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Create a user, insert a record, verify all mandatory fields have values, log results</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <fail_on_server_error>true</fail_on_server_error>
+        <name>Business Rule Test - NeedIt</name>
+        <parameters/>
+        <remember/>
+        <sn_atf_tg_generated>false</sn_atf_tg_generated>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-04 00:50:03</sys_created_on>
+        <sys_id>ad16dc374743021062bfd369316d4302</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Rule Test - NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_ad16dc374743021062bfd369316d4302</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-04 00:50:03</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="DELETE" query="document_key=ad16dc374743021062bfd369316d4302"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>541595c1db8a3d50caf99027c5961945</instance_id>
+        <instance_name>dev191697</instance_name>
+        <name>sys_atf_test_ad16dc374743021062bfd369316d4302</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Create a user, insert a record, verify all mandatory fields have values, log results</description><enable_parameterized_testing>false</enable_parameterized_testing><fail_on_server_error>true</fail_on_server_error><name>Business Rule Test - NeedIt</name><parameters/><remember/><sn_atf_tg_generated>false</sn_atf_tg_generated><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-04 00:50:03</sys_created_on><sys_id>ad16dc374743021062bfd369316d4302</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Business Rule Test - NeedIt</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_test_ad16dc374743021062bfd369316d4302</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-04 00:50:03</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=ad16dc374743021062bfd369316d4302"/></record_update>]]></payload>
+        <payload_hash>-1786615489</payload_hash>
+        <record_name>Business Rule Test - NeedIt</record_name>
+        <reverted_from/>
+        <source>0ac19d244783021062bfd369316d4348</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-04 00:50:03</sys_created_on>
+        <sys_id>392610774743021062bfd369316d43b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1907b38458d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-04 00:50:03</sys_updated_on>
+        <type>Test</type>
+        <update_guid>3d2610778e430210f1842807f15f4fb1</update_guid>
+        <update_guid_history>3d2610778e430210f1842807f15f4fb1:-1786615489</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-04 00:52:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test">sys_atf_test</sys_db_object>
+        <sys_id>1b12a79fb08b438c9a2842ce16211890</sys_id>
+        <sys_metadata>ad16dc374743021062bfd369316d4302</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Rule Test - NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_test_ad16dc374743021062bfd369316d4302</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_ad16dc374743021062bfd369316d4302">392610774743021062bfd369316d43b2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-04 00:52:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
